@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ima_Domo{
+    background-size: 350px;
+    background-repeat: no-repeat;
+    width: 1349px;
+    height: 300px;
+    margin: 0;
+    
+
+}
+
+#re_Domo{
+    margin-top: 8px;
+    margin-right: 7px;
+}
+
+#elec{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Permanent Marker', cursive; 
+    color: rgb(177, 250, 7);
+    background-color: black;
+    display: inline-block;
+    margin-left: 380px;
+    padding: 5px;
+    
+}
+
+.elect{
+width: 100%;
+
+}
+    
+h1{
+text-align: center;
+font-size: 100px;
+font-family: 'Permanent Marker', cursive; 
+color: rgb(247, 143, 7);
+background-color: rgb(59, 243, 13);
+display: inline-block;
+margin-left: 450px;
+padding: 5px;
+}
+
+button{
+    text-align: center;
+    font-size: 37.3px;
+    font-family: 'Permanent Marker', cursive; 
+    color: rgb(20, 87, 7);
+    cursor: pointer;
+    margin-left: 480px;
+    padding: 5px;
+    
+    }
+
+article{
+    width: 400px;
+    background: white;
+    padding: 0px 20px 0;
+    font-size: 18px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 1s;
+    text-align: justify;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column  ;
+    margin-left: 480px;
+}
+
+.tex{
+    margin-bottom: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 16px;
+}
+
+article.abierto {
+    max-height: 1000px;
+}
+
+

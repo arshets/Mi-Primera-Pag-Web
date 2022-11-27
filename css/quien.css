@@ -1,0 +1,57 @@
+.padre {
+    margin: 30px;
+    width: 300px;
+    margin-top: -460px;
+    
+    
+}
+
+.hijo {
+    
+    width: 350px;
+    height: 350px;
+    
+}
+
+
+
+.hijoo {
+    margin-top: -390px;
+   
+    width: 350px;
+    height: 200px;
+    float: right;
+}
+
+.elect {
+    background-image: url(/img/elect\ rayo.jpg);
+    background-repeat: no-repeat;
+    background-size: 350px;    
+
+}
+
+p {
+    margin: 10px;
+    
+}
+
+.nom{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: c;
+    color: rgb(157, 236, 30);
+}
+
+.bor{
+    color: white;
+}
+
+.fami{
+    background-image: url(/img/Familia-e-infancia.jpg);
+    background-repeat: no-repeat;
+    background-size: 350px;
+}
+
+.famil{
+    color: black;
+}
